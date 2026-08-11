@@ -5,7 +5,6 @@
 ### Mobile Developer · Kotlin Multiplatform & Compose Multiplatform
 
 I build production Android & iOS apps from a single Kotlin codebase.
-Currently shipping exchange and marketplace apps at **[UZEX](https://uzex.uz)** — the Uzbek Republican Commodity Exchange.
 
 📍 Tashkent, Uzbekistan
 
@@ -20,20 +19,9 @@ Currently shipping exchange and marketplace apps at **[UZEX](https://uzex.uz)** 
 ## 🧑‍💻 About me
 
 - 📱 **4+ years** in mobile — started in native Android (Kotlin, Jetpack Compose), now fully in **KMP / CMP**
-- 🏦 At **UZEX** I build and maintain the exchange's mobile products, live on **Google Play and the App Store**
+- 🚀 Shipped apps live on both **Google Play and the App Store** from a shared Kotlin codebase
 - 🏗️ I care about **multi-module Clean Architecture**, MVI, offline-first data layers, and type-safe navigation
-- 🔐 Integrated **E-IMZO digital signature** (PKCS#7) authentication into production trading apps
-- 🌱 Currently building **Cue** — a voice-notes app with agentic action execution — and **Margin** — a RAG-powered document chat, both in Compose Multiplatform
 - 🗣️ Uzbek · Russian · English
-
-## 📲 Apps in production
-
-| App | What it does | Get it |
-|-----|--------------|--------|
-| **Uzex Spot** | Official UZEX app — real-time exchange trading, quotations and e-procurement auctions | [Google Play](https://play.google.com/store/apps/details?id=dev.soul.spotmobile) · [App Store](https://apps.apple.com/us/app/uzex-spot/id6757430309) |
-| **MobilRaqam** | Nationwide online auction platform for premium mobile phone numbers | [Google Play](https://play.google.com/store/apps/details?id=uz.uzex.mobileraqam) · [App Store](https://apps.apple.com/us/app/mobilraqam/id1466350666) |
-| **AgroUzex** | Agricultural trading and auctions connecting farmers, businesses and buyers | [Google Play](https://play.google.com/store/apps/details?id=uz.uzex.agrobirja.agrobirja) |
-| **ESMA** | Clean-energy marketplace — solar panels, heat pumps and collectors | [Google Play](https://play.google.com/store/apps/details?id=uz.uzex.esma) |
 
 ## 🛠️ Tech stack
 
@@ -62,7 +50,7 @@ Clean Architecture · MVI · Multi-module · Type-safe Navigation · Offline-fir
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro_E2E-535A6C?style=for-the-badge)
 
-FCM & APNs push · Crashlytics & Analytics · E-IMZO · Play Console · App Store Connect
+FCM & APNs push · Crashlytics & Analytics · Play Console · App Store Connect
 
 ## 📊 GitHub stats
 
